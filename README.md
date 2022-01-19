@@ -1,3 +1,3 @@
-# Bees-classificaton
+# Сlassification of bees
 
 Классификация пчел
